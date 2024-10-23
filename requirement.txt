@@ -1,0 +1,9 @@
+ whisper        >=1.1.10
+ pytest-shutil  >=1.8.0        >=1.8.0
+ opencv-python  >=4.10.0.84
+ moviepy        >=1.0.3
+ tqdm           >=4.66.5
+ ollama         >=0.3.3
+ edge_tts       >=6.1.14
+ asyncio        >=3.4.3
+ englisttohindi >=4.1.0
